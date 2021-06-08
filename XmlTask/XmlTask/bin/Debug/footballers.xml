@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfFootballer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Footballer>
+    <SecondName>TEST NAME</SecondName>
+    <BirthDate>2021-06-05T21:40:03.7334481+07:00</BirthDate>
+    <Role>TEST ROLE</Role>
+    <GamesCount>562</GamesCount>
+    <ScoredBallsCount>355</ScoredBallsCount>
+    <BirthPlace>TEST PLACE</BirthPlace>
+  </Footballer>
+</ArrayOfFootballer>
